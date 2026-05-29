@@ -1,4 +1,5 @@
 <div align="center">
+  <img height="80" alt="icon" src="https://raw.githubusercontent.com/thekylehuang/cole.nvim/main/.github/images/cole-icon.svg" />
   <h1>cole.nvim</h1>
   <img alt="Preview" src="https://raw.githubusercontent.com/thekylehuang/cole.nvim/main/.github/images/cole-nvim-screenshot.png" />
 </div>
