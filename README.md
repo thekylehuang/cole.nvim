@@ -1,6 +1,7 @@
-# Cole.nvim
-
-A port of the stationery-inspired colorscheme Cole
+<div align="center">
+  <h1>cole.nvim</h1>
+  <img alt="Preview" src="https://raw.githubusercontent.com/thekylehuang/cole.nvim/main/.github/images/cole-nvim-screenshot.png" />
+</div>
 
 ## Installation
 
